@@ -1,1 +1,48 @@
+body {
+  background-color: #ff9933;
+}
 
+h1 {
+  color: #0099ff;
+  margin-left: 20px;
+}
+
+#music {
+  border-radius: 25px;
+  background: #ff0066;
+  border: 2px solid ##ff0066;
+  padding: 20px;
+  width: 200px;
+}
+
+h1 {
+  text-shadow: 2px 2px black;
+}
+div  {
+    color: white
+  }
+
+  div {
+    column-count: 3;
+  }
+  div {
+  column-gap: 40px;
+}
+div {
+  column-rule-style: solid;
+}
+div {
+  column-rule-width: 1px;
+}
+div {
+  column-rule-color: #ffff00;
+}
+div {
+  column-rule: 5px solid #ffff00;
+}
+h2 {
+  column-span: all;
+}
+div {
+  column-width: 100px;
+}
